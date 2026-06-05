@@ -53,7 +53,7 @@ except ImportError:
 #  SCHEDULER CONFIGURATION
 # ══════════════════════════════════════════════════════════════
 
-# UPDATE THE CREDENTIALS 
+# UPDATE THE CREDENTIALS AND THE WEBSITE LINK
 
 IMD_URL       = "WEBSITE LINK" 
 USERNAME      = "TN_LOGIN_USERNAME"
