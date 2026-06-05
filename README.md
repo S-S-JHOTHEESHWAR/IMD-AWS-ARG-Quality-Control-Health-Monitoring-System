@@ -1,5 +1,17 @@
 # IMD-Weather-Station-QC
 
+<p align="center">
+  <img src="Assets/Banner.png" width="100%">
+</p>
+
+<h1 align="center">
+🌦️ IMD AWS–ARG Quality Control & Health Monitoring System
+</h1>
+
+<p align="center">
+Real-Time Monitoring • WMO Validation • Station History • Automated Reporting
+</p>
+
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-green.svg)
 ![IMD](https://img.shields.io/badge/Organization-India%20Meteorological%20Department-orange.svg)
