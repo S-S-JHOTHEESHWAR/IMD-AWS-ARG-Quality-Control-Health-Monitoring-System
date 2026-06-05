@@ -4,9 +4,7 @@
   <img src="Assets/Banner.png" width="100%">
 </p>
 
-<h1 align="center">
-🌦️ IMD AWS–ARG Quality Control & Health Monitoring System
-</h1>
+
 
 <p align="center">
 Real-Time Monitoring • WMO Validation • Station History • Automated Reporting
