@@ -124,6 +124,21 @@ Contains:
 
 ---
 
+## ⚙️ Installation
+
+**Python 3.10+ required**
+
+```bash
+git clone https://github.com/S-S-JHOTHEESHWAR/IMD-Weather-Station-QC.git
+cd IMD-Weather-Station-QC
+pip install -r requirements.txt
+```
+
+Then run:
+```bash
+python src/main.py
+```
+
 
 
 # 👨‍💻 Author
