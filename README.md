@@ -1,4 +1,4 @@
-# IMD AWS–ARG Quality Control & Health Monitoring System
+# IMD-Weather-Station-QC
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-green.svg)
@@ -7,11 +7,12 @@
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg)
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
----
-# IMD-Weather-Station-QC
-An educational project demonstrating automated quality control, station health monitoring, data completeness analysis, and report generation for Automatic Weather Station (AWS) and Automatic Rain Gauge (ARG) networks.
+
+
+An automated Quality Control and Health Monitoring System developed for Automatic Weather Station (AWS) and Automatic Rain Gauge (ARG) networks, providing real-time sensor health assessment, data completeness analysis, station history tracking, and operational report generation.
 
 ---
+
 # 🌍 Project Overview
 
 The **IMD AWS–ARG Quality Control & Health Monitoring System** is a Python-based desktop application developed for the **India Meteorological Department (IMD)** to automate the monitoring, validation, and reporting of meteorological observations collected from Automatic Weather Stations (AWS) and Automatic Rain Gauges (ARG).
