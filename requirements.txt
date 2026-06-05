@@ -1,0 +1,22 @@
+# IMD AWS + ARG — QC & Health Monitoring System
+# Python 3.10+ required
+# Install with: pip install -r requirements.txt
+
+# ── Core data processing ───────────────────────────────────────
+pandas>=2.0.0
+numpy>=1.24.0
+
+# ── Excel report generation ────────────────────────────────────
+openpyxl>=3.1.0
+
+# ── GUI framework ──────────────────────────────────────────────
+customtkinter>=5.2.0
+
+# ── Automated browser / Selenium (Mode A only) ────────────────
+selenium>=4.18.0
+
+# ── Scheduler (Mode A only) ───────────────────────────────────
+schedule>=1.2.0
+
+# ── ChromeDriver auto-management (optional, set USE_WEBDRIVER_MANAGER=True) ──
+# webdriver-manager>=4.0.0
