@@ -5,7 +5,7 @@
 ![IMD](https://img.shields.io/badge/Organization-India%20Meteorological%20Department-orange.svg)
 ![WMO](https://img.shields.io/badge/Standard-WMO%20Compliant-success.svg)
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
 ---
 # IMD-Weather-Station-QC
@@ -22,43 +22,6 @@ The application supports both **Tamil Nadu** and **Puducherry** meteorological n
 
 ---
 
-# 🚀 Key Features
-
-### Automated Data Collection
-
-* Selenium-based automated portal access
-* AWS and ARG CSV download automation
-* Tamil Nadu and Puducherry support
-* Scheduled data retrieval
-
-### Quality Control Engine
-
-* WMO-based validation checks
-* Sensor anomaly detection
-* Cross-sensor consistency checks
-* Statistical quality assessment
-
-### Health Monitoring
-
-* Sensor status classification
-* Transmission continuity monitoring
-* Battery health analysis
-* Station operational tracking
-
-### Reporting
-
-* Automated Excel report generation
-* Color-coded health summaries
-* WMO compliance sheets
-* Sensor-wise diagnostics
-
-### Historical Tracking
-
-* Permanent station history database
-* Last known station condition
-* Long-term operational monitoring
-
----
 
 # 🌦️ Supported Sensors
 
