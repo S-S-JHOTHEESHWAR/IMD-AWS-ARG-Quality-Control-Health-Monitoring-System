@@ -113,7 +113,7 @@ Contains:
 
 
 
-<img src="Assets/GIF1.gif" width="100%">
+<img src="Assets/GIF01.gif" width="100%">
 
 </td>
 
