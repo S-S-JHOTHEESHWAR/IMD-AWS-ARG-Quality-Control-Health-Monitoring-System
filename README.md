@@ -1,6 +1,168 @@
+# IMD AWS–ARG Quality Control & Health Monitoring System
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![Platform](https://img.shields.io/badge/Platform-Windows-green.svg)
+![IMD](https://img.shields.io/badge/Organization-India%20Meteorological%20Department-orange.svg)
+![WMO](https://img.shields.io/badge/Standard-WMO%20Compliant-success.svg)
+![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+
+---
 # IMD-Weather-Station-QC
 An educational project demonstrating automated quality control, station health monitoring, data completeness analysis, and report generation for Automatic Weather Station (AWS) and Automatic Rain Gauge (ARG) networks.
 
+---
+# 🌍 Project Overview
+
+The **IMD AWS–ARG Quality Control & Health Monitoring System** is a Python-based desktop application developed for the **India Meteorological Department (IMD)** to automate the monitoring, validation, and reporting of meteorological observations collected from Automatic Weather Stations (AWS) and Automatic Rain Gauges (ARG).
+
+The system eliminates the need for manual inspection of large volumes of station data by automatically downloading observations, performing WMO-compliant quality control checks, detecting faulty sensors, tracking station health, and generating detailed Excel-based health reports.
+
+The application supports both **Tamil Nadu** and **Puducherry** meteorological networks and provides real-time monitoring through an integrated scheduler and automated browser workflow.
+
+---
+
+# 🚀 Key Features
+
+### Automated Data Collection
+
+* Selenium-based automated portal access
+* AWS and ARG CSV download automation
+* Tamil Nadu and Puducherry support
+* Scheduled data retrieval
+
+### Quality Control Engine
+
+* WMO-based validation checks
+* Sensor anomaly detection
+* Cross-sensor consistency checks
+* Statistical quality assessment
+
+### Health Monitoring
+
+* Sensor status classification
+* Transmission continuity monitoring
+* Battery health analysis
+* Station operational tracking
+
+### Reporting
+
+* Automated Excel report generation
+* Color-coded health summaries
+* WMO compliance sheets
+* Sensor-wise diagnostics
+
+### Historical Tracking
+
+* Permanent station history database
+* Last known station condition
+* Long-term operational monitoring
+
+---
+
+# 🌦️ Supported Sensors
+
+## AWS Sensors
+
+| Sensor          | Parameter                      |
+| --------------- | ------------------------------ |
+| ATRH Sensor     | Air Temperature                |
+| ATRH Sensor     | Relative Humidity              |
+| Aneroid Barometer | Station Level Pressure (SLP)   |
+| Ultrasonic Anemometer Sensor    | Wind Speed                     |
+| Ultrasonic Anemometer Sensor  | Wind Direction                 |
+| TBRG(Tipping Bucket Rain Gauge)            | Rainfall                       |
+
+
+---
+
+## ARG Sensors
+
+| Sensor               | Parameter         |
+| -------------------- | ----------------- |
+| TBRG                 | Rainfall          |
+| ATRH | Temperature       |
+| ATRH | Relative Humidity |
+
+
+---
+
+# 📏 WMO-Based Validation Checks
+
+The application implements quality control procedures derived from the World Meteorological Organization (WMO) Guide to Instruments and Methods of Observation (WMO-No. 8).
+
+IMAGE HERE
+---
+
+## 7️⃣ Cross-Sensor Validation
+
+Checks physical consistency between multiple parameters.
+
+Examples:
+
+* Rainfall occurring with extremely low RH
+* Wind direction fluctuations during calm winds
+* SLP and MSLP consistency verification
+
+---
+
+# 📊 Generated Reports
+
+## AWS Report
+
+### AWS_QC_HEALTH_REPORT.xlsx
+
+Contains:
+
+* Data Completeness
+* Sensor Details
+* Cross-Sensor Validation
+* WMO Proof of Standards
+
+---
+
+## ARG Report
+
+### ARG_QC_REPORT.xlsx
+
+Contains:
+
+* Data Completeness
+* Sensor Details
+
+---
+
+# 🖥️ Application 
+GIF HERE
+
+# 📚 Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* OpenPyXL
+* Selenium
+* Schedule
+* CustomTkinter
+* Tkinter
+
+---
+
+
+
+# 👨‍💻 Author
+
+**S. S. Jhotheeshwar**
+
+Electronics Engineering (VLSI Design & Technology)
+
+Internship Project – India Meteorological Department (IMD)
+
+---
+
+
+
+If you find this project useful, please consider giving the repository a ⭐.
 
 
 ## Disclaimer
