@@ -80,7 +80,7 @@ The application implements quality control procedures derived from the World Met
 
 # 📊 Generated Reports
 
-## AWS Report
+
 
 ### AWS_QC_HEALTH_REPORT.xlsx
 ![AWS](Assets/AWS_rep.png)
@@ -94,7 +94,7 @@ Contains:
 
 ---
 
-## ARG Report
+
 
 ### ARG_QC_REPORT.xlsx
 ![ARG](Assets/ARG_rep.png)
