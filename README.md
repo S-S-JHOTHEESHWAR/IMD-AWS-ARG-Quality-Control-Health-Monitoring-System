@@ -107,9 +107,25 @@ Contains:
 
 # 🖥️ Application Demonstration
 
-<p align="center">
-  <img src="Assets/GIF1.gif" width="90%">
-</p>
+<table>
+<tr>
+<td align="center" width="50%">
+
+
+
+<img src="Assets/GIF1.gif" width="100%">
+
+</td>
+
+<td align="center" width="50%">
+
+
+
+<img src="Assets/GIF2.gif" width="100%">
+
+</td>
+</tr>
+</table>
 
 # 📚 Technologies Used
 
