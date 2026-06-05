@@ -76,17 +76,7 @@ The application implements quality control procedures derived from the World Met
 ![WMO_standards](Assets/WMO_stand.png)
 ---
 
-##  Cross-Sensor Validation
 
-Checks physical consistency between multiple parameters.
-
-Examples:
-
-* Rainfall occurring with extremely low RH
-* Wind direction fluctuations during calm winds
-* SLP and MSLP consistency verification
-
----
 
 # 📊 Generated Reports
 
