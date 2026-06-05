@@ -23,13 +23,16 @@ An automated Quality Control and Health Monitoring System developed for Automati
 
 ---
 
-# 🌍 Project Overview
+## 🌍 Project Overview
 
-The **IMD AWS–ARG Quality Control & Health Monitoring System** is a Python-based desktop application developed for the **India Meteorological Department (IMD)** to automate the monitoring, validation, and reporting of meteorological observations collected from Automatic Weather Stations (AWS) and Automatic Rain Gauges (ARG).
+The **IMD AWS–ARG Quality Control & Health Monitoring System** is a Python-based desktop application developed for the **India Meteorological Department (IMD)** to automate the monitoring, validation, and reporting of meteorological observations collected from **Automatic Weather Stations (AWS)** and **Automatic Rain Gauges (ARG)**.
 
-The system eliminates the need for manual inspection of large volumes of station data by automatically downloading observations, performing WMO-compliant quality control checks, detecting faulty sensors, tracking station health, and generating detailed Excel-based health reports.
+AWS and ARG stations deployed across **Tamil Nadu and Puducherry** transmit meteorological observations to the central IMD server at **Pune** at regular **15-minute intervals**. These observations include parameters such as temperature, relative humidity, wind speed, wind direction, atmospheric pressure, rainfall, and battery status.
 
-The application supports both **Tamil Nadu** and **Puducherry** meteorological networks and provides real-time monitoring through an integrated scheduler and automated browser workflow.
+To ensure the reliability and operational quality of the incoming data, each transmission must be validated against established quality control standards. Traditionally, this validation and station health assessment process involved significant manual effort, requiring continuous monitoring of large volumes of station data.
+
+The developed system automates this workflow by downloading station observations, performing **WMO-compliant quality control checks**, detecting faulty or intermittent sensors, assessing station health, tracking historical station performance, and generating detailed Excel-based reports. This enables faster identification of data quality issues, reduces manual workload, and improves the efficiency of operational meteorological monitoring.
+
 
 ---
 
