@@ -25,27 +25,35 @@ The application supports both **Tamil Nadu** and **Puducherry** meteorological n
 
 # 🌦️ Supported Sensors
 
-## AWS Sensors
+<table>
+<tr>
+<td valign="top" width="50%">
 
-| Sensor          | Parameter                      |
-| --------------- | ------------------------------ |
-| ATRH Sensor     | Air Temperature                |
-| ATRH Sensor     | Relative Humidity              |
-| Aneroid Barometer | Station Level Pressure (SLP)   |
-| Ultrasonic Anemometer Sensor    | Wind Speed                     |
-| Ultrasonic Anemometer Sensor  | Wind Direction                 |
-| TBRG(Tipping Bucket Rain Gauge)            | Rainfall                       |
+### AWS Sensors
 
+| Sensor | Parameter |
+| :--- | :--- |
+| ATRH Sensor | Air Temperature |
+| ATRH Sensor | Relative Humidity |
+| Aneroid Barometer | Station Level Pressure (SLP) |
+| Ultrasonic Anemometer Sensor | Wind Speed |
+| Ultrasonic Anemometer Sensor | Wind Direction |
+| TBRG(Tipping Bucket Rain Gauge) | Rainfall |
 
----
+</td>
+<td valign="top" width="50%">
 
-## ARG Sensors
+### ARG Sensors
 
-| Sensor               | Parameter         |
-| -------------------- | ----------------- |
-| TBRG                 | Rainfall          |
-| ATRH | Temperature       |
+| Sensor | Parameter |
+| :--- | :--- |
+| TBRG | Rainfall |
+| ATRH | Temperature |
 | ATRH | Relative Humidity |
+
+</td>
+</tr>
+</table>
 
 
 ---
