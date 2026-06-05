@@ -169,7 +169,7 @@ Internship Project – India Meteorological Department (IMD)
 
 
 
-If you find this project useful, please consider giving the repository a ⭐.
+
 
 
 ## Disclaimer
