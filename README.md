@@ -1,4 +1,4 @@
-# IMD-Weather-Station-QC
+# IMD AWS–ARG Quality Control & Health Monitoring System
 
 <p align="center">
   <img src="Assets/Banner.png" width="100%">
