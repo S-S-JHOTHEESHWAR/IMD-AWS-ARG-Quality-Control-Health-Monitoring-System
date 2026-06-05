@@ -57,7 +57,7 @@ The application implements quality control procedures derived from the World Met
 ![WMO_standards](Assets/WMO_stan.png)
 ---
 
-## 7️⃣ Cross-Sensor Validation
+##  Cross-Sensor Validation
 
 Checks physical consistency between multiple parameters.
 
