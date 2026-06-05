@@ -95,8 +95,11 @@ Contains:
 
 ---
 
-# 🖥️ Application 
-GIF HERE
+# 🖥️ Application Demonstration
+
+<p align="center">
+  <img src="[assets/application_demo.gif](https://github.com/S-S-JHOTHEESHWAR/IMD-Weather-Station-QC/blob/main/Assets/GIF1.gif?raw=true)" width="90%">
+</p>
 
 # 📚 Technologies Used
 
