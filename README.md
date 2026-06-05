@@ -174,11 +174,11 @@ If you find this project useful, please consider giving the repository a ⭐.
 
 ## Disclaimer
 
-This project was developed during my internship at the India Meteorological Department (IMD) as part of my learning and practical exposure to meteorological data processing, Automatic Weather Stations (AWS), and Automatic Rain Gauge (ARG) networks.
+This project was developed during my internship at the India Meteorological Department (IMD) as part of the development of an automated Quality Control and Health Monitoring System for Automatic Weather Station (AWS) and Automatic Rain Gauge (ARG) networks.
 
-This repository is published solely for educational, academic, and software engineering demonstration purposes. It does not represent an official software product, recommendation, policy, or endorsement of the India Meteorological Department (IMD).
+The software is intended to support operational meteorological data monitoring by automating data validation, sensor health assessment, station history tracking, data completeness analysis, and report generation. The repository is shared to showcase the design, implementation, and software engineering practices involved in the development of the system.
 
-No operational credentials, confidential information, restricted datasets, or internal IMD resources are included in this repository. Any views, design decisions, implementations, and software components presented here are my own and are intended to showcase the knowledge, skills, and experience gained during the internship.
+No operational credentials, confidential information, restricted datasets, or sensitive internal resources are included in this repository. Any security-sensitive or organization-specific configurations have been removed prior to publication.
 
-The content of this repository reflects my personal work and learning experience during the internship and should not be considered an official statement or position of the India Meteorological Department (IMD) or the Ministry of Earth Sciences, Government of India.
+The source code, documentation, and related materials presented here reflect my individual contributions and experience gained during the internship. This repository is provided for professional, academic, and research reference purposes and should not be interpreted as an official software release, policy statement, or endorsement of the India Meteorological Department (IMD), the Ministry of Earth Sciences (MoES), or the Government of India.
 
