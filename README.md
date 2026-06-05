@@ -82,6 +82,7 @@ Examples:
 ## AWS Report
 
 ### AWS_QC_HEALTH_REPORT.xlsx
+![AWS](Assets/AWS_rep.png)
 
 Contains:
 
@@ -95,7 +96,7 @@ Contains:
 ## ARG Report
 
 ### ARG_QC_REPORT.xlsx
-
+![ARG](Assets/ARG_rep.png)
 Contains:
 
 * Data Completeness
