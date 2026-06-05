@@ -63,7 +63,7 @@ The application supports both **Tamil Nadu** and **Puducherry** meteorological n
 
 The application implements quality control procedures derived from the World Meteorological Organization (WMO) Guide to Instruments and Methods of Observation 
 
-![WMO_standards](Assets/WMO_stan.png)
+![WMO_standards](Assets/WMO_stand.png)
 ---
 
 ##  Cross-Sensor Validation
